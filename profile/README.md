@@ -1,8 +1,8 @@
 ## Our Seminar Series:
 
-https://www.mcgill.ca/bensadoun-school/data-sphere-lab/offered-services-students/seminar-series
+- https://www.mcgill.ca/bensadoun-school/data-sphere-lab/offered-services-students/seminar-series
 
-## Our McGill Friends:
+## Our McGill Presence on GitHub:
 
 - https://github.com/McGill-NLP
 - https://github.com/mcgill-robotics
