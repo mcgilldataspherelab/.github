@@ -1,4 +1,4 @@
-## Our McGill Friends ❤️:
+## Our McGill Friends:
 
 - https://github.com/McGill-NLP
 - https://github.com/mcgill-robotics
