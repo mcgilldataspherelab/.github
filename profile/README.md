@@ -1,3 +1,7 @@
+## Our Seminar Series:
+
+https://www.mcgill.ca/bensadoun-school/data-sphere-lab/offered-services-students/seminar-series
+
 ## Our McGill Friends:
 
 - https://github.com/McGill-NLP
