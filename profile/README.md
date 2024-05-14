@@ -1,6 +1,7 @@
-## Our Seminar Series:
+## Our DataBank:
 
-- https://www.mcgill.ca/bensadoun-school/data-sphere-lab/offered-services-students/seminar-series
+- https://www.mcgill.ca/bensadoun-school/data-sphere-lab/lab-initiatives/databank
+- Link to dictionnary here
 
 ## Our McGill Presence on GitHub:
 
