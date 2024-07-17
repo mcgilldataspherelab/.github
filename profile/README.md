@@ -3,7 +3,7 @@
 - https://www.mcgill.ca/bensadoun-school/data-sphere-lab/lab-initiatives/databank
 - Link to dictionnary here
 
-## Our McGill Presence on GitHub:
+## McGill's Presence on GitHub:
 
 - https://github.com/McGill-NLP
 - https://github.com/mcgill-robotics
