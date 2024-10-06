@@ -1,12 +1,13 @@
-## Our DataBank:
-
-- https://www.mcgill.ca/bensadoun-school/data-sphere-lab/lab-initiatives/databank
-- Link to dictionnary here
-
 ## Our Products:
+
+- DataBank
+- MMM
+- 
 
 ## Our Demos:
 
+- RAG
+- 
 
 ## McGill's Presence on GitHub:
 
