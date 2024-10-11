@@ -1,13 +1,14 @@
 ## Our Products:
 
-- DataBank
 - MMM
 - 
+- DataBank
 
 ## Our Demos:
 
 - RAG
-- 
+- Dashboards with PowerBI
+- Dashboards with Python
 
 ## McGill's Presence on GitHub:
 
