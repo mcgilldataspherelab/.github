@@ -11,6 +11,8 @@
 - ML with ...
 - Image Recognition
 - Video to Image & Pattern Recognition
+- PDF CV Classifier
+- LinkedIn Extactor Classifier
 - OCR for Printed Forms
 - Dashboards with PowerBI
 - Dashboards with Python
