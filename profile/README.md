@@ -7,6 +7,11 @@
 ## Our Demos:
 
 - RAG
+- ML with NHL
+- ML with ...
+- Image Recognition
+- Video to Image & Pattern Recognition
+- OCR for Printed Forms
 - Dashboards with PowerBI
 - Dashboards with Python
 
