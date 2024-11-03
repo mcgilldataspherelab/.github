@@ -1,35 +1,28 @@
 ## Our Products:
 
 - MMM
-- Product Sentiment Tracker
-- DataBank
 
-## Our Demos:
+## Our Services:
+
+- DataBank
+- Hackathons
+- Synthetic Data
+
+## Our Prototypes:
 
 - RAG
 - ML with NHL
-- ML with ...
+- ML Batch Predictions
+- ML Realtime Predictions
 - Image Recognition
 - Video to Image & Pattern Recognition
 - PDF CV Classifier
 - LinkedIn Extactor Classifier
 - OCR for Printed Forms
+
 - Dashboards with PowerBI
 - Dashboards with Python
-
-## McGill's Presence on GitHub:
-
-- https://github.com/McGill-NLP
-- https://github.com/mcgill-robotics
-- https://github.com/dblabs-mcgill-mila
-- https://github.com/McGillEUS
-- https://github.com/McGill-Collaborations
-- https://github.com/physicsmattersmcgill/
-- https://github.com/neuroeddu/
-- https://github.com/games-mcgill 
-- https://github.com/Shared-Reality-Lab
-- https://github.com/topics/mcgill-university
-
+- Dashboards with Javascript
 
 <!--
 
