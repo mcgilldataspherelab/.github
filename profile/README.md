@@ -19,7 +19,6 @@
 - PDF CV Classifier
 - LinkedIn Extactor Classifier
 - OCR for Printed Forms
-
 - Dashboards with PowerBI
 - Dashboards with Python
 - Dashboards with Javascript
