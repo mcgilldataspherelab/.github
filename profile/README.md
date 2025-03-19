@@ -1,27 +1,15 @@
-## Our Products:
+## Our Products / Services / Prototypes:
 
 - MMM
-
-## Our Services:
-
 - DataBank
-- Hackathons
+- NHL Predictions
+- CFL Predictions
 - Synthetic Data
-
-## Our Prototypes:
-
 - RAG
-- ML with NHL
-- ML Batch Predictions
-- ML Realtime Predictions
-- Image Recognition
+- Hackathons
 - Video to Image & Pattern Recognition
 - PDF CV Classifier
-- LinkedIn Extactor Classifier
-- OCR for Printed Forms
-- Dashboards with PowerBI
-- Dashboards with Python
-- Dashboards with Javascript
+- Dashboards with Python & Javascript
 
 <!--
 
