@@ -1,15 +1,17 @@
-## Our Products / Services / Prototypes:
+## Our Products:
 
-- MMM
 - DataBank
 - NHL Predictions
-- CFL Predictions
-- Synthetic Data
 - RAG
-- Hackathons
-- Video to Image & Pattern Recognition
-- PDF CV Classifier
-- Dashboards with Python & Javascript
+- Synthetic Data
+- MMM
+
+## Our Prototypes:
+- Curriculum OCR Classifier
+- Dashboards
+
+## Our Seminars
+- Cloud
 
 <!--
 
