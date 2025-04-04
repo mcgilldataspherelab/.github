@@ -5,9 +5,8 @@ The DataSphere Lab is part of McGill University in Montreal, Quebec, Canada
 
 - DataBank
 - NHL Predictions
-- RAG
-- Synthetic Data
-- MMM
+- RAG Implementation
+- Synthetic Data Generator
 
 ## Our Prototypes:
 - Curriculum OCR Classifier
