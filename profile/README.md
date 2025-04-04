@@ -13,7 +13,7 @@ The DataSphere Lab is part of McGill University in Montreal, Quebec, Canada
 - Dashboards
 
 ## Our Seminars
-- Cloud
+- Demystifying the Cloud
 
 <!--
 
