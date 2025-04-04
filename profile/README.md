@@ -1,4 +1,5 @@
-We are part of McGill University in Montreal, Quebec, Canada
+The DataSphere Lab is part of McGill University in Montreal, Quebec, Canada
+<br>https://www.mcgill.ca/bensadoun-school/data-sphere-lab
 
 ## Our Products:
 
